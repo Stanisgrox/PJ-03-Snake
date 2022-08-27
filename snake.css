@@ -1,0 +1,24 @@
+#hud {
+	height:120px;
+	text-align: center;
+}
+#restart{
+	margin-top: 10px;
+	display: none;
+}
+.cell {
+	position: absolute;
+	border:1px solid #010101;
+}
+.box {
+	background-color: black;
+}
+.snake {
+	background-color: green;
+}
+.treat {
+	background-color: red;
+	-webkit-border-radius: 50px;
+	-moz-border-radius: 50px;
+	border-radius: 50px;
+}
